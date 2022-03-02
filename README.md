@@ -1,0 +1,2 @@
+# Organization-Wide-Sharing-Defaults
+Edit your organization-wide sharing defaults. Changing these defaults will cause all sharing rules to be recalculated. This could require significant system resources and time depending on the amount of data in your organization. Setting an object to Private makes records visible to record owners and those above them in the role hierarchy, and access can be extended using sharing rules.
